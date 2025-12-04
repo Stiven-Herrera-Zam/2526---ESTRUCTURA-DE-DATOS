@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\.vscode\\ESTRUCTURA DE DATOS\\ejemplo\\ejemplo.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\.vscode\\ESTRUCTURA DE DATOS\\Semana 2\\ejemplo.csproj",
       "projectName": "ejemplo",
-      "projectPath": "C:\\Users\\Usuario\\.vscode\\ESTRUCTURA DE DATOS\\ejemplo\\ejemplo.csproj",
+      "projectPath": "C:\\Users\\Usuario\\.vscode\\ESTRUCTURA DE DATOS\\Semana 2\\ejemplo.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\.vscode\\ESTRUCTURA DE DATOS\\ejemplo\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\.vscode\\ESTRUCTURA DE DATOS\\Semana 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
