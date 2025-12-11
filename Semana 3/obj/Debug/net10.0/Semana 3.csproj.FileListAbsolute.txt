@@ -1,0 +1,15 @@
+C:\Users\Usuario\.vscode\ESTRUCTURA DE DATOS\Semana 3\bin\Debug\net10.0\Semana 3.exe
+C:\Users\Usuario\.vscode\ESTRUCTURA DE DATOS\Semana 3\bin\Debug\net10.0\Semana 3.deps.json
+C:\Users\Usuario\.vscode\ESTRUCTURA DE DATOS\Semana 3\bin\Debug\net10.0\Semana 3.runtimeconfig.json
+C:\Users\Usuario\.vscode\ESTRUCTURA DE DATOS\Semana 3\bin\Debug\net10.0\Semana 3.dll
+C:\Users\Usuario\.vscode\ESTRUCTURA DE DATOS\Semana 3\bin\Debug\net10.0\Semana 3.pdb
+C:\Users\Usuario\.vscode\ESTRUCTURA DE DATOS\Semana 3\obj\Debug\net10.0\Semana 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\.vscode\ESTRUCTURA DE DATOS\Semana 3\obj\Debug\net10.0\Semana 3.AssemblyInfoInputs.cache
+C:\Users\Usuario\.vscode\ESTRUCTURA DE DATOS\Semana 3\obj\Debug\net10.0\Semana 3.AssemblyInfo.cs
+C:\Users\Usuario\.vscode\ESTRUCTURA DE DATOS\Semana 3\obj\Debug\net10.0\Semana 3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\.vscode\ESTRUCTURA DE DATOS\Semana 3\obj\Debug\net10.0\Semana 3.sourcelink.json
+C:\Users\Usuario\.vscode\ESTRUCTURA DE DATOS\Semana 3\obj\Debug\net10.0\Semana 3.dll
+C:\Users\Usuario\.vscode\ESTRUCTURA DE DATOS\Semana 3\obj\Debug\net10.0\refint\Semana 3.dll
+C:\Users\Usuario\.vscode\ESTRUCTURA DE DATOS\Semana 3\obj\Debug\net10.0\Semana 3.pdb
+C:\Users\Usuario\.vscode\ESTRUCTURA DE DATOS\Semana 3\obj\Debug\net10.0\Semana 3.genruntimeconfig.cache
+C:\Users\Usuario\.vscode\ESTRUCTURA DE DATOS\Semana 3\obj\Debug\net10.0\ref\Semana 3.dll
