@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">   
+<!-- Indica que el proyecto usa el SDK de .NET para aplicaciones de consola -->
+  
+  <PropertyGroup>   <!-- Define el tipo de salida del proyecto -->
+                
+    <OutputType>Exe</OutputType>   <!-- "Exe" significa que se generará un ejecutable (aplicación de consola) -->
+
+    <TargetFramework>net10.0</TargetFramework>  <!-- Especifica la versión del framework objetivo -->
+                                                <!-- net10.0 indica que el proyecto está configurado para .NET 10 -->
+
+    <ImplicitUsings>enable</ImplicitUsings>   <!-- Habilita los "usings" implícitos -->
+                                              <!-- Esto agrega automáticamente los espacios de nombres más comunes (como System) -->
+
+    <Nullable>disable</Nullable>      <!-- Configura la opción de nulabilidad -->
+                                      <!-- "disable" significa que no se aplican advertencias por valores nulos -->
+
+  </PropertyGroup>
+
+</Project>
+
+
