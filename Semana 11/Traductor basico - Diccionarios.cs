@@ -49,6 +49,7 @@ class Program
                 foreach (string p in palabras)
                 {
                     if (dic.ContainsKey(p))
+
                         Console.Write(dic[p] + " ");
                     else
                         Console.Write("[" + p + "] "); // no encontrada
